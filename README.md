@@ -8,4 +8,4 @@
 
 **Thank you** for your visit!!!
 
-### 🎮 Feel free to explore and play around with my games and repositories!
+### 🦕 Feel free to explore and play around with my games and repositories!
