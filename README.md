@@ -9,4 +9,4 @@
 
 Thank you for your visit, feel free to explore and play around with my games and repositories! 🎮
 
-## Have fun coding some games!
+### Have fun coding some games!
