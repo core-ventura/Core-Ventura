@@ -1,5 +1,4 @@
-### Hello there! 👋 My name is Coré Ventura, a videogame developer from the Canary Islands! 🦕
-
+### 🦕 Hello there! My name is Coré Ventura, a videogame developer from the Canary Islands!
 - 🐲 I’m currently developing videogames of all sorts and studying a PhD!
 - 🌱 I’m currently learning about... videogames! you can see where this is going!
 - 🌌 Check out my portfolio in [coreventura.com](https://coreventura.com)
@@ -9,4 +8,4 @@
 
 **Thank you** for your visit!!!
 
-### Feel free to explore and play around with my games and repositories! 🎮
+### 🎮 Feel free to explore and play around with my games and repositories!
