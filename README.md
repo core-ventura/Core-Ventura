@@ -1,4 +1,4 @@
-### Hello there! My name is Coré Ventura! 👋
+### Hello there! 👋 My name is Coré Ventura! 🦕
 
 - 🐲 I’m currently developing videogames of all sorts and studying a PhD!
 - 🌱 I’m currently learning about... videogames! you can see where this is going!
@@ -7,6 +7,6 @@
 - 💬 Ask me anything on twitter! [@core_ventura](https://twitter.com/core_ventura)
 - 📫 How to reach me: core.ventura@gmail.com
 
-Thank you for your visit, feel free to explore and play around with my games and repositories! 🎮
+**Thank you** for your visit!!!
 
-### Have fun coding some games!
+### Feel free to explore and play around with my games and repositories! 🎮
