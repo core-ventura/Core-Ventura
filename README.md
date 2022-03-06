@@ -1,6 +1,5 @@
 ### 🦕 Hello there! My name is Coré Ventura, a videogame developer from the Canary Islands!
-- 🐲 I’m currently developing videogames of all sorts and studying a PhD!
-- 🌱 I’m currently learning about... videogames! you can see where this is going!
+- 🐲 I’m the developer of Flappy Dragon and working on developing more games!
 - 🌌 Check out my portfolio in [coreventura.com](https://coreventura.com)
 - 🎮 Download and play my games in [itch.io](https://coreventura.itch.io/)
 - 💬 Ask me anything on twitter! [@core_ventura](https://twitter.com/core_ventura)
