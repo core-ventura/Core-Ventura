@@ -3,7 +3,7 @@
 - 🌌 Check out my portfolio in [coreventura.com](https://coreventura.com)
 - 🎮 Download and play my games in [itch.io](https://coreventura.itch.io/)
 - 💬 Ask me anything on twitter! [@core_ventura](https://twitter.com/core_ventura)
-- 📫 How to reach me: core.ventura@gmail.com
+- 🍩 Support me on Ko-fi! [core_ventura](https://ko-fi.com/core_ventura)
 
 **Thank you** for your visit!!!
 
